@@ -1,0 +1,11 @@
+# Personal expense data
+expenses.json
+expenses.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
